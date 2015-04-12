@@ -1,0 +1,8 @@
+.mui-app-bar {
+  .mui-icon-button:not(.mui-app-bar-navigation-icon-button) {
+    float: right;
+  }
+  .action-icons {
+    margin-right: -16px;
+  }
+}

@@ -1,0 +1,13 @@
+Figwheel: focusing on build-ids (app)
+sending changed CSS file: resources/public/css/style.css
+[0mCompiling "resources/public/js/app.js" from ["src/cljs" "env/dev/cljs"]...
+[32mSuccessfully compiled "resources/public/js/app.js" in 0.211 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/cljs_deps.js
+notifying browser that file changed:  /cljsjs/react.js
+notifying browser that file changed:  /reagent/core.js
+notifying browser that file changed:  /reagent/session.js
+notifying browser that file changed:  /reagent_ui/dev.js
+notifying browser that file changed:  /material_ui/core.js
+notifying browser that file changed:  /reagent_ui/layout.js
+notifying browser that file changed:  /reagent_ui/app.js

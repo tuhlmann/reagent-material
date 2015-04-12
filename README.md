@@ -25,3 +25,7 @@ For building the MaterialUI file I used
 `https://github.com/taylorSando/om-material-ui`
 
 Follow its instructions to build a new version, then copy the built JavaScript and CSS files into the reagent-material project.
+
+## Final Words
+
+This example was ripped out of a larger project, it contains dependencies and code fragments that are not used in the context of this example.

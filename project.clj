@@ -7,6 +7,8 @@
 
   :source-paths ["src/clj" "src/cljs"]
 
+  :jvm-opts ["-XX:MaxPermSize=128M"]
+
   :dependencies [[org.clojure/clojure "1.7.0-beta1"]
                  [reagent "0.5.0" :exclusions [cljsjs/react]]
                  [reagent-forms "0.5.0"]
@@ -40,7 +42,7 @@
             [lein-environ "1.0.0"]
             [lein-ring "0.9.1"]
             [lein-asset-minifier "0.2.2"]
-            [lein-sassy "1.0.6-SNAPSHOT"]
+            [lein-sassy "1.0.7"]
             [lein-ancient "0.6.2"]
             [codox "0.8.10"]
             [lein-marginalia "0.8.0"]]

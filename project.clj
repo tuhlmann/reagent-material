@@ -40,7 +40,7 @@
             [lein-environ "1.0.0"]
             [lein-ring "0.9.1"]
             [lein-asset-minifier "0.2.2"]
-            [lein-sassy "1.0.6-SNAPSHOT"]
+            [lein-sassy "1.0.7"]
             [lein-ancient "0.6.2"]
             [codox "0.8.10"]
             [lein-marginalia "0.8.0"]]

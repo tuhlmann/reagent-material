@@ -7,6 +7,8 @@
 
   :source-paths ["src/clj" "src/cljs"]
 
+  :jvm-opts ["-XX:MaxPermSize=128M"]
+
   :dependencies [[org.clojure/clojure "1.7.0-beta1"]
                  [reagent "0.5.0" :exclusions [cljsjs/react]]
                  [reagent-forms "0.5.0"]
